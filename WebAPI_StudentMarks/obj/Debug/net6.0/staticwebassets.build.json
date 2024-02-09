@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5tIXG67U556O1QwXizHj7hhyX1eaquZiEUt414oQOMA=",
+  "Source": "WebAPI_StudentMarks",
+  "BasePath": "_content/WebAPI_StudentMarks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
